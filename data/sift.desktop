@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=sift
+GenericName=API client
+Comment=Fast, native API client
+Exec=/home/xlr8abhi/tmp/sift/build/sift
+Icon=sift
+Terminal=false
+Categories=Development;
+Keywords=api;http;rest;curl;request;
+StartupWMClass=sift
